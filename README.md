@@ -1,58 +1,58 @@
 # 🇪🇺 Transition Bonds: The New Greenwashing? — Credibility & Policy Analysis
 
-> **A data-driven policy and credibility risk analysis** of transition bonds in Europe's debt market.  
-> Combines real issuance data, ESG scoring trends, and regulatory context to ask: *Are transition bonds truly financing decarbonization — or are they another form of greenwashing?*
+> **A data‑driven analysis of Europe’s transition bond market**, with country‑level breakdown (Germany, France, Spain) and policy risk discussion.  
+> Explores real issuance data, ESG trends, and gaps in EU vs national frameworks to answer: *Are transition bonds funding decarbonization — or adding credibility risk?*
 
 ---
 
 ## 📑 **About This Project**
 
-This repository builds on my published analysis:  
+This repository expands on my published LinkedIn analysis:  
 👉 [Transition Bonds: The New Greenwashing? How Europe's Bond Market Faces a Credibility Gap](https://www.linkedin.com/pulse/transition-bonds-new-greenwashing-how-europes-bond-market-chaudhry--sqdvf)
 
-It aims to:
-- Examine how transition bonds differ from EU Green Bonds
-- Identify credibility gaps for investors & issuers
-- Explore ESG data to validate market claims
-- Connect market data to real-life policy implications
+Key focus:
+- Compare transition bonds vs. green bonds
+- Identify credibility gaps across countries
+- Quantify ESG risk exposure at issuer & sector level
+- Connect data trends to real‑life EU and member‑state policy frameworks
 
 ---
 
-## 📊 **Data & Analysis Highlights**
+## 📊 **Data & Country‑Level Analysis**
 
-✅ Analyzed:
-- Issuance data (2020–2024)
-- ESG ratings across transition vs. green bonds
-- Sector-level exposure (e.g., steel, aviation, cement)
-- Alignment with EU Taxonomy & Climate Bonds Initiative standards
+✅ Collected and analyzed:
+- Issuance data 2020–2024 split by **Germany, France, Spain**
+- Sector exposure to hard‑to‑abate industries (e.g., steel, cement, aviation)
+- ESG ratings distribution per country
+- Alignment vs. EU Green Bond Standard & national regulations
 
-📈 Techniques:
-- Descriptive analytics & visualization (Python, pandas, matplotlib)
-- Correlation of ESG scores vs. sector risk
-- Commentary linking data findings to policy frameworks
+📈 Analysis includes:
+- Growth vs. credibility risk by country
+- Correlation between ESG ratings and sector/issuer profile
+- Commentary on national policy gaps and market signaling
 
 ---
 
 ## 🧰 **Project Structure**
 
-- `data/` → Raw & cleaned CSV files
-- `notebooks/` → Jupyter notebook:
-  - Issuance trends
-  - ESG rating analysis
-  - Policy gap discussion
+- `data/` → CSV files structured by country & sector
+- `notebooks/` → Jupyter notebook with:
+  - Issuance trends per country
+  - ESG rating scatter & correlation
+  - Policy risk discussion
 - `README.md` → This file
-- `LICENSE` & `.gitignore` → Project hygiene & reproducibility
+- `LICENSE`, `.gitignore` → Project hygiene
 
 ---
 
-## 🌍 **Real-life context & why this matters**
+## 🌍 **Real‑life context & why it matters**
 
-Despite rapid growth, transition bonds:
-- Often fund high-emission sectors without strict decarbonization KPIs
-- Lack standard taxonomy enforcement
-- Carry reputational & policy risks if markets tighten (e.g., EU Green Bond Standard)
+Transition bonds often claim climate impact, yet data shows:
+- High share of proceeds go to **heavy industry** with unclear decarbonization KPIs
+- ESG ratings differ significantly **by country and sector**
+- National frameworks lag behind EU taxonomy
 
-**Result:** Investors & regulators face a credibility gap threatening sustainable finance targets.
+**Outcome:** Investors face real credibility and regulatory downgrade risk if standards tighten.
 
 ---
 
@@ -65,24 +65,23 @@ Despite rapid growth, transition bonds:
 
 ## 📦 **Skills & tools demonstrated**
 
-- Python (pandas, seaborn, matplotlib)
-- Data cleaning & aggregation
-- ESG risk analysis
-- Policy framework synthesis
-- Translating analysis into narrative & decision-useful insight
+- Python: pandas, matplotlib, seaborn
+- Multi-country data cleaning & aggregation
+- ESG score analysis & correlation
+- Linking data findings to policy and market narrative
+- Translating research into actionable investor insight
 
 ---
 
 ## ✅ **Status**
 - ✅ Article published
-- ✅ Repo created
-- 🔧 Adding deeper correlation analysis & advanced charts
+- ✅ Repo structure complete
+- 🔧 Adding advanced correlation charts & country-specific commentary
 
 ---
 
 ## 🙌 **Call to action**
 
-Bridging data and policy shows where sustainable finance instruments fail or deliver real impact.  
-*For collaboration, discussion, or review → feel free to reach out!*
-
+Country-level data shows why the same instrument may mean different risk in Germany vs. Spain.  
+*For collaboration or deep-dive discussion → reach out!*
 
