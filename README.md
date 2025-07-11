@@ -27,4 +27,8 @@ It explores:
 
 ---
 
-📊 Data insights, charts, and Jupyter notebook coming soon.
+## 📊 Data Analysis Notebook
+
+For the detailed data-driven analysis supporting this research:
+🔗 [EU Transition Bonds vs Green Bonds — Jupyter Notebook](notebooks/eu_transition_bonds_analysis.ipynb)
+
