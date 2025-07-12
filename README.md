@@ -66,7 +66,10 @@
 ---
 
 📄 article/
-    └── transition_bonds_europe_analysis.pdf
+    📄 [Transition Bonds Are the New Greenwashing – How Europe’s Bond Market is Losing Credibility (PDF)](article/Transition%20Bonds%20Are%20the%20New%20Greenwashing,%20How%20Europe%E2%80%99s%20Bond%20Market%20is%20Losing%20Credibility.pdf)
+
+  📄 [Read the full article (PDF)](article/Transition%20Bonds%20Are%20the%20New%20Greenwashing,%20How%20Europe%E2%80%99s%20Bond%20Market%20is%20Losing%20Credibility.pdf)
+
 
 ---
 
