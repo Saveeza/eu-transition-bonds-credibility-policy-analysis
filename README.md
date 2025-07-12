@@ -1,6 +1,11 @@
 [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saveeza/eu-transition-bonds-credibility-policy-analysis/HEAD)
+---
+
+[<img src="visuals/Greenwashing_transition_english_banner.png" alt="EU Transition Bonds Greenwashing Banner" style="width:100%; margin-top:20px;">](https://github.com/Saveeza/eu-transition-bonds-credibility-policy-analysis)
+
 
 ---
+
 
 # 📊 Transition Bonds Europe: Gap, Risk, Data & Policy Analysis
 
@@ -57,6 +62,8 @@
 
 📁 references/
     └── (to be added)
+```
+---
 
 📄 article/
     └── transition_bonds_europe_analysis.pdf
@@ -78,13 +85,16 @@ This analysis shows:
 
 ---
 
-## 📌 Project Status
-
-- ✅ Article published  
-- ✅ Repository structure, data, visuals, and analysis notebook complete  
-- 🔜 More country comparisons and references coming soon
+## ✅ Project Status
+✅ Repository created and structured  
+✅ Article published  
+✅ Data, visuals, and references uploaded  
+📊 Notebook analysis completed  
+📌 Final review and README polishing done
 
 ---
 
-📫 *Questions, feedback, or want the summary in German? Feel free to get in touch.*
+## 📄 License
+This project is licensed under the [MIT License](LICENSE).
 
+*For questions, feedback, or collaboration — feel free to reach out!*
