@@ -1,4 +1,6 @@
 [![Launch in Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Saveeza/eu-transition-bonds-credibility-policy-analysis/HEAD)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16150064.svg)](https://doi.org/10.5281/zenodo.16150064)
+
 ---
 
 [<img src="visuals/Greenwashing_transition_english_banner.png" alt="EU Transition Bonds Greenwashing Banner" style="width:100%; margin-top:20px;">](https://github.com/Saveeza/eu-transition-bonds-credibility-policy-analysis)
@@ -38,11 +40,9 @@
 
 ## 🖼️ Visuals
 
-### ESG vs Credit Spread Correlation  
-![Correlation Matrix](visuals/correlation_matrix.png)
+ESG vs Credit Spread Correlation  ![Correlation Matrix]
 
-### Policy Gaps Radar Chart  
-![Policy Gap Radar](visuals/policy_gaps_radar.png)
+Policy Gaps Radar Chart  ![Policy Gap Radar]
 
 ---
 
@@ -65,7 +65,8 @@
 ```
 ---
 
-📄 article/
+## 📄 Article
+
     📄 [Transition Bonds Are the New Greenwashing – How Europe’s Bond Market is Losing Credibility (PDF)](article/Transition%20Bonds%20Are%20the%20New%20Greenwashing,%20How%20Europe%E2%80%99s%20Bond%20Market%20is%20Losing%20Credibility.pdf)
 
   📄 [Read the full article (PDF)](article/Transition%20Bonds%20Are%20the%20New%20Greenwashing,%20How%20Europe%E2%80%99s%20Bond%20Market%20is%20Losing%20Credibility.pdf)
@@ -88,6 +89,12 @@ This analysis shows:
 
 ---
 
+## 📚 How to Cite
+
+Aziz, S. (2025). *Saveeza/eu-transition-bonds-credibility-policy-analysis: Initial Zenodo Release — Transition Bond Credibility & Policy Alignment (EU) (v1.0)*. Zenodo. https://doi.org/10.5281/zenodo.16150064
+
+---
+
 ## ✅ Project Status
 ✅ Repository created and structured  
 ✅ Article published  
@@ -99,5 +106,13 @@ This analysis shows:
 
 ## 📄 License
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## 👤 About the Author
+
+**Saveeza Aziz** is a data analyst with a focus on sustainable finance and applied policy evaluation. Her work combines technical expertise in ESG scoring, EU Taxonomy alignment, and investment modeling to support real-world financial decisions. She has contributed to projects on the real estate market in Luxembourg, the green transport transition in Germany, and the credibility challenge of transition bonds held by Dutch pension funds. Her approach bridges regulatory frameworks and market performance through data-driven insights that are both practical and impact-focused — especially in areas like green finance accountability, disclosure enforcement, and policy-aligned investment strategies.
+
+---
 
 *For questions, feedback, or collaboration — feel free to reach out!*
